@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNN_With_Real_Data"
+all_model_checkpoint_paths: "RNN_With_Real_Data"
